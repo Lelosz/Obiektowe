@@ -24,7 +24,7 @@ public class cw3 {
         System.out.println("suma liczb dodatnich wynosi:" + sumaDodatnich(a));
         System.out.println("suma liczb ujemnych wynosi:" + sumaUjemnych(a));
         System.out.println("dlugosc maksymalnego ciagu liczb dodatnich wynosi: " + dlugoscMaksymalnegoCiaguDodatnich(a));
-        //signum(a);
+        signum(a);
         odwrocFragment(a,scan.nextInt(),scan.nextInt());
         //3
         System.out.println("podaj m, n i k");
