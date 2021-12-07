@@ -1,5 +1,5 @@
 import pl.imiajd.bandzul.Instrument;
-import pl.imiajd.bandzul.Flet; //2005-01-01
+import pl.imiajd.bandzul.Flet;
 import pl.imiajd.bandzul.Fortepian;
 import pl.imiajd.bandzul.Skrzypce;
 
